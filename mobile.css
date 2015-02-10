@@ -1,0 +1,137 @@
+.words {
+	width:90%;
+	clear:both;
+		font-size:1.15em;
+}
+
+.words p {
+	line-height:1.58em;
+	margin: 0px 0px 15px 0px;
+}
+
+#title {
+				padding-top:100px;
+				padding-bottom:20px;
+				margin-bottom:0;
+			}
+
+
+		h2.projects {
+			margin-top:40px;
+		}
+
+div.learn-more {
+	width:100%;
+}
+.content {
+	width:100%;
+}
+
+h1.mobile {
+	display:block;
+	width:100%;
+	font-size:1.3em;
+    font-family: 'Roboto';
+	padding-right:0;
+	margin-left:5%;
+	margin-top:0px;
+	margin-bottom:5px;
+    height: 100px;
+}
+
+	h1.mobile a{
+		margin-left:0px;
+	}
+
+	nav {
+		padding:13px 0px 10px 5%;
+		float:left;
+	}
+
+
+.left-img, .left-img img {
+	width:100%;
+	margin-bottom:0px;
+}
+
+	.full-image .half-right,.full-image .half-left  {
+		width:100%;
+		float:left;
+		margin-top:0px;
+		margin-bottom:0px;
+		padding-top:0px;
+		padding-bottom:15px;
+	}
+	
+
+.side-col-top, .side-col {
+	width:100%;
+	clear:both;
+	margin-left:5%;
+	margin-top:2.5%;
+	margin-bottom:20px;
+	margin-right:0%;
+}
+
+.side-col-top p, .side-col p {
+	padding-left:5%;
+}
+
+div.pull-out {
+	width:95%;
+	padding: 10px 0px 10px 20px;
+	margin-left:0%;
+}
+
+	.pull-quote {
+		font-weight:300;
+		font-size:1.20em;
+		margin-bottom:0px;
+					font-style:italic;
+					margin: 0 auto;
+	}
+
+.videoWrapper {
+	margin-bottom:5.5%;
+}
+
+
+
+.monster2 {
+	display:none;
+}
+
+.monster1 {
+	display:none;
+}
+
+nav {
+	clear:none;
+}
+
+video {
+	height:400px;
+
+}
+
+h1 {
+	display:none;
+}
+
+h2,h4 {
+	font-size:1em;
+	line-height:1.5em;
+}
+
+.footer-col {
+	width:100%;
+}
+
+	footer .words {
+				width:100%;
+				margin-top:10px;
+			}
+
+.image {
+    width:100%;
+    }
