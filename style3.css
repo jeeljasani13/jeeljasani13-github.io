@@ -220,6 +220,7 @@ nav ul li a.active{
 	margin-left:8%;
 	line-height:2em;
 	width:80%;
+	float:left;
     color:#656464;
 	}
 
