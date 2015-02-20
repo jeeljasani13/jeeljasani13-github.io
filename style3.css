@@ -98,7 +98,7 @@ html {
 		font-weight:bold;
         font-size: 3em;
 		padding:15px 20px 10px 0px;
-		margin-left:10%;
+		margin-left:3%;
         margin-top:85px;
         height:100px;
 	}
@@ -150,7 +150,7 @@ html {
 		font-weight: 300;
 		padding:15px 0px 10px 20px;
 		float:right;
-		margin-right:8%;
+		margin-right:18%;
         margin-top:130px;
 		font-family:'Roboto';
 		font-weight:bold;
@@ -201,8 +201,8 @@ nav ul li a.active{
 
 	.content {
 		
-		width:100%;
-		margin:0 auto;
+		width:85%;
+		margin:auto;
 		position:relative;
 		}
 	
@@ -901,15 +901,13 @@ footer h2 {
 		
 	
 .image {
-    width:28%;
-    height:230px;
+    width:30%;
+    height:300px;
     position:relative;
     min-width: 48.75px;
     min-height: 100px;
     display: inline-block;
     float:left;
-	margin-left:4%;
-    margin-top:2.5%;
 	font-family:"Maison Neue",  "Maison Neue Bold", Helvetica, Arial, Sans-Serif, sans-serif;
 	font-weight:bold;
 	font-size:1.2em;
@@ -932,8 +930,8 @@ footer h2 {
 	
 	.image.middle {
     display: block;
-    margin-left: 30%;
-    margin-right: 30%; }		
+    margin-left: 0.5%;
+    margin-right: 0.5%; }		
 
 .image img {
     width:100%;
@@ -1043,7 +1041,7 @@ footer h2 {
 
 .role {
     float:left;
-    margin-left: 10.25%;
+    margin-left: 3.15%;
     margin-top: 120px;
     font-family: 'Roboto';
     font-size: 20px;
@@ -1443,3 +1441,7 @@ margin-top: 2.5%;
     color:#656464;
     font-size: 1.3em;
 }
+
+
+
+
