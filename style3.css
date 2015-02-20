@@ -201,7 +201,7 @@ nav ul li a.active{
 
 	.content {
 		
-		width:85%;
+		width:100%;
 		margin:auto;
 		position:relative;
 		}
@@ -1445,3 +1445,9 @@ margin-top: 2.5%;
 
 
 
+
+.content_index {
+    width:85%;
+		margin:auto;
+		position:relative;
+}
