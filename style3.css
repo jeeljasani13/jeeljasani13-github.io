@@ -1857,6 +1857,13 @@ font-size: 13px;
     font-size: 16px;
 }
     
+    #title_resume {
+	padding-top:150px;
+	margin-bottom:10px;
+	line-height:2em;
+    font-size: 0.8em;
+}
+    
 }
 
 @media screen and (max-width:630px){
