@@ -1576,7 +1576,7 @@ margin-top: 2.5%;
     header {
 		z-index:9238;
 		/*margin-top:60px;*/
-		font-size: 1.3em;
+		font-size: 1.1em;
 		position:fixed;
 		width:100%;
 		opacity:1;
@@ -1614,7 +1614,7 @@ margin-top: 2.5%;
     
     	nav ul li {
 			padding: 0px 0px 5px 6px;
-			padding-left:20px;
+			padding-left:18px;
  	 }
     
     .role {
@@ -1622,7 +1622,7 @@ margin-top: 2.5%;
     margin-left: 3.15%;
     margin-top: 120px;
     font-family: 'Roboto';
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 400;
     color:#656464;
     display: block;
@@ -1647,7 +1647,7 @@ margin-top: 2.5%;
     
     .image {
     width:48%;
-    height:270px;
+    height:260px;
     margin-left:1%;
     margin-right:1%;
     margin-top:2%;
