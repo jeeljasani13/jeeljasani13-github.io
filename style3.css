@@ -1726,8 +1726,13 @@ margin-top: 2.5%;
 }
     
     .sides {
-    margin-top:-260px;
-    font-size: 16px;
+    margin-top:-300px;
+    font-size: 14px;
+}
+    
+    .sides2 {
+    margin-top:-250px;
+    font-size: 14px;
 }
     
     #title {
@@ -1838,6 +1843,12 @@ font-size: 13px;
        width:600px; 
      height: 450px; 
     }
+    
+     
+    .sides {
+    margin-top:-220px;
+    font-size: 16px;
+}
     
 }
 
