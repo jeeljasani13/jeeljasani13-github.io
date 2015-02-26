@@ -1704,6 +1704,15 @@ margin-top: 2.5%;
     font-size: 1px;
 }
     
+    .presi_desk{
+     width:700px; 
+     height: 560px;
+    }
+    
+    .video_tassist{
+       width:700px; 
+     height: 560px; 
+    }
 }
 
 @media screen and (max-width:700px){
@@ -1797,6 +1806,16 @@ font-size: 13px;
     margin-top:100px;
     font-size: 12px;
 }
+    
+    .presi_desk{
+     width:600px; 
+     height: 450px;
+    }
+    
+    .video_tassist{
+       width:600px; 
+     height: 450px; 
+    }
     
 }
 
