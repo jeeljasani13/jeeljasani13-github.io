@@ -924,10 +924,7 @@ footer h2 {
 				margin-top:-5%;
 			}
 */
-			#title {
-				padding-bottom:130px;
-				margin-bottom:0;
-			}
+
 	
 	.image.middle {
     display: block;
@@ -1705,14 +1702,39 @@ margin-top: 2.5%;
 }
     
     .presi_desk{
-     width:700px; 
-     height: 560px;
+     width:640px; 
+     height: 510px;
     }
     
     .video_tassist{
        width:700px; 
      height: 560px; 
     }
+    
+    .poem {
+    margin-right:1%;
+    margin-top:130px;
+    font-size: 16px;
+}
+    
+    .author {
+    line-height: 1.2em;
+    margin-right:0%;
+    float:right;
+    margin-top:20px;
+    font-size: 14px;
+}
+    
+    .sides {
+    margin-top:-260px;
+    font-size: 16px;
+}
+    
+    #title {
+	padding-top:100px;
+	margin-bottom:10px;
+	}
+    
 }
 
 @media screen and (max-width:700px){
