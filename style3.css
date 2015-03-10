@@ -99,7 +99,7 @@ html {
 		font-weight:bold;
         font-size: 3em;
 		padding:15px 20px 10px 0px;
-		margin-left:3%;
+		margin-left:1%;
         margin-top:85px;
         height:100px;
 	}
@@ -122,7 +122,6 @@ html {
 		z-index:9238;
 		/*margin-top:60px;*/
 		font-size: 1.3em;
-		position:fixed;
 		width:100%;
 		opacity:1;
         height:200px;
@@ -151,7 +150,7 @@ html {
 		font-weight: 300;
 		padding:15px 0px 10px 20px;
 		float:right;
-		margin-right:18%;
+		margin-right:3%;
         margin-top:130px;
 		font-family:'Roboto';
 		font-weight:bold;
@@ -216,7 +215,7 @@ nav ul li a.active{
 	z-index:9834;
 	font-family:"Roboto";
 	font-weight:bold;
-	padding-top:150px;
+	padding-top:0px;
 	margin-bottom:10px;
 	
 	line-height:2em;
@@ -899,17 +898,7 @@ footer h2 {
 }
 
 .image {
-    z-index: 0;
-    width:32%;
-    height:280px;
-    position:relative;
-    min-width: 48.75px;
-    min-height: 100px;
-    margin-left:0.66%;
-    margin-right:0.66%;
-    margin-top:1.32%;
-    display: inline-block;
-    float:left;
+   
 	font-family:"Roboto";
 	font-weight:bold;
 	font-size:1.2em;
@@ -956,7 +945,7 @@ footer h2 {
 }
 
 .image:before {
-content: attr(data-content);
+content: attr(data-description1),attr(data-description2);
 width: 100%;
 color: #fff;
 z-index: 1;
@@ -1018,12 +1007,13 @@ box-sizing: border-box;
 
 
 .image:before {
-    content: attr(data-content);
-    width:100%;
+    content: "\A" attr(data-description1) "\A" "\A" attr(data-description2);
+    white-space:pre-wrap;
+    width:120%;
     color:#fff;
     z-index:1;
     top:0;   
-    text-align:left; 
+    text-align:center; 
 }
 
 .image:hover:after, .image:hover:before {
@@ -1038,14 +1028,14 @@ box-sizing: border-box;
 
 .role {
     float:left;
-    margin-left: 3.15%;
+    margin-left: -31%;
     margin-top: 120px;
     font-family: 'Roboto';
     font-size: 20px;
     font-weight: 400;
     color:#656464;
     display: block;
-    position:fixed;
+  
     
 }
 
@@ -1061,7 +1051,7 @@ box-sizing: border-box;
 
 .after {
     display: block;
-    margin-top: 210px;
+    margin-top: 120px;
     margin-left: 10%;
     margin-right: 10%;
     border-style: inset;
@@ -1072,8 +1062,8 @@ box-sizing: border-box;
 .endmain {
     margin-left:10%;
     margin-right: 10%;
-    margin-bottom: 5%;
-    margin-top: 4.5%;
+    margin-bottom: 50px;
+    margin-top: 70px;
     border-top: 1px solid #ccc;
 }
 
@@ -1280,7 +1270,7 @@ text-align: center;
 }
 
 .coverimage {
-    margin-top:100px;
+    margin-top:0px;
     width:100%;
     
 }
@@ -1433,12 +1423,12 @@ margin-top: 2.5%;
     z-index:9834;
 	font-family:"Roboto";
 	font-weight:bold;
-	padding-top:150px;
+	padding-top:0px;
 	margin-bottom:10px;
 	line-height:2em;
 	width:80%;
     color:#656464;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 
@@ -1452,7 +1442,7 @@ margin-top: 2.5%;
     
     width: 100%;
     height:100px;
-    position:fixed;
+   
     z-index: 9000;
 }
 
@@ -1581,7 +1571,7 @@ margin-top: 2.5%;
 		z-index:9238;
 		/*margin-top:60px;*/
 		font-size: 1.1em;
-		position:fixed;
+		
 		width:100%;
 		opacity:1;
         height:200px;
@@ -2323,4 +2313,49 @@ nav {
         margin: auto;
     }
     
+}
+
+.animation_dashboard {
+    margin-bottom: 50px;
+}
+
+.full-image-width.dashbd {
+    
+     width:92%;
+    height:700px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+        
+    
+}
+
+.full-image-width.dashbd {
+    
+     width:92%;
+    height:600px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+        
+    
+}
+
+.full-image-width.dashbd1 {
+    
+     width:92%;
+    height:550px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+        
+    
+}
+
+
+
+  
+    .full-image-width.poster {
+    width:92%;
+    height:1620px;
+    margin: 0px 0px 2.3% 0px;
+    margin-top:20px;
+    float:left;
 }
