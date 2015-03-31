@@ -1281,7 +1281,7 @@ text-align: center;
 .words_projects {
     width: 90%;
 	float:left;
-	font-size:1.2em;
+	font-size:1em;
 	margin-left:8%;
     color:#747373;
     margin-top:5%;
@@ -1295,7 +1295,7 @@ text-align: center;
     line-height: 1.2em;
     color:#a2a1a1;
     margin-right:10%;
-    font-size: 18px;
+    font-size: 16px;
     width:300px;
     float:right;
     display:inline-block;
@@ -1351,13 +1351,13 @@ text-align: center;
     width:90%;
     float:left;
     display:inline-block;
-    margin-bottom:80px;
+    margin-bottom:60px;
     font-style: italic;
 }
 
 .full-image-width {
     width:92%;
-    height:700px;
+    height:600px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
         
@@ -2364,4 +2364,21 @@ nav {
     margin: 0px 0px 2.3% 0px;
     margin-top:20px;
     float:left;
+}
+
+.full-image-width.affinityta {
+
+    width:92%;
+    height:700px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+          
+}
+
+.full-image-width.seq.bordering {
+    width:92%;
+    height:700px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+        
 }
