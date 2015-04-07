@@ -2404,7 +2404,7 @@ nav {
 .tile {
     width:25%;
     float:left;
-    height:335px;
+    height:300px;
     box-sizing: border-box;
     position: relative;
 }
