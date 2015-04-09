@@ -2404,9 +2404,10 @@ nav {
 .tile {
     width:25%;
     float:left;
-    height:300px;
+    display: inline-block;
     box-sizing: border-box;
     position: relative;
+    box-sizing: border-box;
 }
 
 img {
