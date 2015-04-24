@@ -823,21 +823,21 @@ text-align: center;
 .words_projects {
     width: 100%;
 	float:left;
-	font-size:1em;
+	font-size:1.1em;
 	
     color:#747373;
     margin-top:5%;
-    line-height: 1.3em;
+    line-height: 1.4em;
     margin-bottom:4%;
 }
 
 .side_info {
     font-family: 'Roboto';
-    font-style: italic;
-    line-height: 1.2em;
+    
+   
     color:#a2a1a1;
     margin-right:10%;
-    font-size: 18px;
+    
     width:300px;
     float:right;
     display:inline-block;
@@ -1101,11 +1101,11 @@ margin-top: 2.5%;
     
     .side_info {
     font-family: 'Roboto';
-    font-style:italic;
-    line-height: 1.1em;
+   
+   
     color:#a2a1a1;
     margin-right:0%;
-    font-size: 14px;
+   
     width:250px;
     float:right;
     display:inline-block;
@@ -1236,11 +1236,11 @@ margin-top: 2.5%;
     
     .side_info {
     font-family: 'Roboto';
-    font-style:italic;
-    line-height: 1.1em;
+    
+  
     color:#a2a1a1;
     margin-right:0%;
-    font-size: 14px;
+   
     width:200px;
     float:right;
     display:inline-block;
@@ -1401,11 +1401,11 @@ font-size: 13px;
     
     .side_info {
     font-family: 'Roboto';
-    font-style:italic;
-    line-height: 1.1em;
+    
+  
     color:#a2a1a1;
     margin-right:0%;
-    font-size: 13px;
+   
     width:200px;
     float:right;
     display:inline-block;
@@ -1515,11 +1515,11 @@ font-size: 12px;
     
     .side_info {
     font-family: 'Roboto';
-    font-style:italic;
-    line-height: 1.1em;
+    
+   
     color:#a2a1a1;
     margin-right:0%;
-    font-size: 13px;
+   
     width:180px;
     float:right;
     display:inline-block;
@@ -1640,11 +1640,11 @@ font-size: 11px;
     
       .side_info {
     font-family: 'Roboto';
-    font-style:italic;
-    line-height: 1.1em;
+   
+   
     color:#a2a1a1;
     margin-right:0%;
-    font-size: 13px;
+   
     width:180px;
     float:left;
     display:inline-block;
@@ -2029,4 +2029,12 @@ img {
     height:780px;
     margin: 0px 0px 2.3% 0px;
     float:left;
+}
+
+
+
+.left {
+    float:left;
+    display:inline-table;
+    width:62.5%;
 }
