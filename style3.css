@@ -2038,3 +2038,21 @@ img {
     display:inline-table;
     width:62.5%;
 }
+
+.full-image-width.speeddate {
+   width:100%;
+    height:860px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;  
+    
+}
+
+.full-image-width.paffinity{
+    
+     width:100%;
+    height:640px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;  
+    
+}
+
