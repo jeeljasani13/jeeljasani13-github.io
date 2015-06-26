@@ -70,7 +70,7 @@ html {
 
 
 	body {
-		font-family:"Roboto", serif; 
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif; 
 		color:#262626;
  		-webkit-font-smoothing: antialiased;
    		 -moz-font-smoothing: antialiased;
@@ -95,7 +95,7 @@ html {
 		font-weight:200;
 		float:left;
 		opacity:1;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
         font-size: 3em;
 		padding:15px 20px 10px 0px;
@@ -146,7 +146,7 @@ html {
 		float:right;
 		margin-right:3%;
         margin-top:130px;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
         font-size:25px;
 	}
@@ -206,7 +206,7 @@ nav ul li a.active{
 
 #title {
 	z-index:9834;
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:bold;
 	padding-top:0px;
 	margin-bottom:10px;
@@ -231,7 +231,7 @@ nav ul li a.active{
 	h2 {
 		font-size:2em;
 		z-index:8743;
-		font-family: "Roboto";
+		font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
 	}
 
 		h2 a {
@@ -288,7 +288,7 @@ nav ul li a.active{
 			margin-bottom:23px;
 			line-height:1.3em;
 			margin-top:70px;
-			font-family:"Roboto";
+			font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 			font-weight:bold;
 		}
 
@@ -302,7 +302,7 @@ nav ul li a.active{
 		
 		.subtext {
 			font-size:.6em;
-		font-family:"Maison Neue Bold", Helvetica, Arial, Sans-Serif, sans-serif;
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 			font-weight:200;
 			}
 	.full-image .big-link-div {
@@ -314,7 +314,7 @@ nav ul li a.active{
 		text-align: center;
 		vertical-align: middle;
 		line-height: 100px;  
-		font-family:"Maison Neue Bold", Helvetica, Arial, Sans-Serif, sans-serif;
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
 		font-size:1.3em;
 	}
@@ -338,7 +338,7 @@ nav ul li a.active{
 	float:right;
 	margin-top:2px;
 	font-size:0.8em;
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:200;
 	line-height:1.65em;
 	padding:0px 0 15px 0;
@@ -365,7 +365,7 @@ nav ul li a.active{
 	
 	
 	.bold {
-		font-family:"Roboto";
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-style:normal;
 		font-weight:bold;
         color:#00ade4;
@@ -521,7 +521,7 @@ a.resume-link {
 
 .image {
    
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:bold;
 	font-size:1.2em;
 	line-height:1.4em;
@@ -587,7 +587,7 @@ a.resume-link {
     float:left;
     margin-left: -31%;
     margin-top: 120px;
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     font-size: 20px;
     font-weight: 400;
     color:#ffffff;
@@ -625,7 +625,7 @@ a.resume-link {
     font-weight:200;
 		float:left;
 		opacity:1;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
         font-size: 1em;
 		padding:15px 10px 10px 0px;
@@ -644,7 +644,7 @@ a.resume-link {
     display: block;
      float:left;
     margin-left: 8%;
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     font-size: 13px;
     font-weight: 400;
     color:#656464;
@@ -695,7 +695,7 @@ a.resume-link {
     list-style-type: disc;
     margin-left: 15%;
     margin-bottom: 5%;
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     font-size:20px;
 }
 
@@ -705,7 +705,7 @@ a.resume-link {
 width:100%;
 margin: auto;
 margin-bottom: 4%;
-font-family: "Roboto", Courier, mono;
+font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
 font-size: 14px;
 color: #373737;
 text-align: center;
@@ -714,7 +714,7 @@ text-align: center;
 .copy {
     width:100%;
     align-content: center;
-    font-family: "Roboto";
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     margin-top: 40px;
     margin: auto;
 }
@@ -725,7 +725,7 @@ text-align: center;
 		float:right;
 		margin-right:8%;
         margin-top:23px;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
         font-size:24px;
 }
@@ -733,7 +733,7 @@ text-align: center;
 /** about page **/ 
 
 .poem {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     font-style: italic;
     line-height: 1.2em;
     color:#a2a1a1;
@@ -751,7 +751,7 @@ text-align: center;
 }
 
 .author {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     color:#a2a1a1;
     margin-right:7%%;
@@ -761,7 +761,7 @@ text-align: center;
 }
 
 .poems {
-    font-family: 'Roboto';
+    font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1em;
     color:#a2a1a1;
     margin-right:10%;
@@ -771,7 +771,7 @@ text-align: center;
 }
 
 .sides {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif';
     line-height: 1.2em;
     margin-right:10%;
     float:left;
@@ -791,7 +791,7 @@ text-align: center;
 }
 
 .sides2 {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif';
     line-height: 1.2em;
     margin-right:10%;
     float:left;
@@ -833,7 +833,7 @@ text-align: center;
 }
 
 .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     
    
     color:#a2a1a1;
@@ -870,7 +870,7 @@ text-align: center;
 }
 
 #sub_title {
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:bold;
 	padding-top:39px;
 	margin-bottom:20px;
@@ -901,7 +901,7 @@ text-align: center;
 }
 
 .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:10%;
     float:right;
@@ -922,12 +922,12 @@ text-align: center;
 
 .resume {
     max-width: 700px;
-    font-family: "Roboto";
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
 }
 
 #title_resume {
     z-index:9834;
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:bold;
 	padding-top:0px;
 	margin-bottom:10px;
@@ -1063,7 +1063,7 @@ margin-top: 2.5%;
 }
     
     .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:5%;
     float:right;
@@ -1102,7 +1102,7 @@ margin-top: 2.5%;
 }
     
     .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif';
    
    
     color:#a2a1a1;
@@ -1123,7 +1123,7 @@ margin-top: 2.5%;
 }
     
     .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:5%;
     float:right;
@@ -1162,7 +1162,7 @@ margin-top: 2.5%;
 		font-weight:200;
 		float:left;
 		opacity:1;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 		font-weight:bold;
         font-size: 2.8em;
 		padding:15px 20px 10px 0px;
@@ -1177,7 +1177,7 @@ margin-top: 2.5%;
 		float:right;
 		margin-right:18%;
         margin-top:130px;
-		font-family:'Roboto';
+		font-family:"Roboto", Helvetica, Sans-Serif, sans-serif';
 		font-weight:bold;
         font-size:23px;
 	}
@@ -1191,7 +1191,7 @@ margin-top: 2.5%;
     float:left;
     margin-left: 3.15%;
     margin-top: 120px;
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif';
     font-size: 17px;
     font-weight: 400;
     color:#ffffff;
@@ -1237,7 +1237,7 @@ margin-top: 2.5%;
 }
     
     .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     
   
     color:#a2a1a1;
@@ -1275,7 +1275,7 @@ margin-top: 2.5%;
 }
     
     .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:4%;
     float:right;
@@ -1402,7 +1402,7 @@ font-size: 13px;
 }
     
     .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     
   
     color:#a2a1a1;
@@ -1423,7 +1423,7 @@ font-size: 13px;
 }
     
        .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:3%;
     float:right;
@@ -1516,7 +1516,7 @@ font-size: 12px;
 }
     
     .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     
    
     color:#a2a1a1;
@@ -1537,7 +1537,7 @@ font-size: 12px;
 }
     
        .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:3%;
     float:right;
@@ -1584,7 +1584,7 @@ font-size: 12px;
     .role {
     margin-left:2%;
     margin-top: 53px;
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     font-size: 15px;
     font-weight: 400;
  
@@ -1641,7 +1641,7 @@ font-size: 11px;
 }
     
       .side_info {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
    
    
     color:#a2a1a1;
@@ -1663,7 +1663,7 @@ font-size: 11px;
 }
     
     .side_des {
-    font-family: 'Roboto';
+    font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     margin-right:3%;
     float:right;
@@ -1956,7 +1956,7 @@ nav {
 }
 
 #nextwork {
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif;
 	font-weight:bold;
 	margin-bottom:40px;
 	line-height:2em;
@@ -1967,7 +1967,7 @@ nav {
 }
 
 #prevwork {
-	font-family:"Roboto";
+	font-family:"Roboto", Helvetica, Sans-Serif, sans-serif";
 	font-weight:bold;
 	margin-bottom:40px;
 	line-height:2em;
