@@ -2244,3 +2244,21 @@ img {
         float:left;  
     
 }
+
+.frontcover{
+ 
+    position:relative;
+}
+
+.intro{
+ position:absolute;
+    top:90px;
+    font-size: 65px;
+    font: Roboto;
+    color: white;
+    left:100px;
+}
+
+.introtext{
+    font-weight: bold;
+}
