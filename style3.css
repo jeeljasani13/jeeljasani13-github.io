@@ -737,7 +737,7 @@ text-align: center;
     font-style: italic;
     line-height: 1.2em;
     color:#a2a1a1;
-    margin-right:10%;
+    margin-right:20%;
     float:right;
     margin-top:200px;
     font-size: 18px;
@@ -754,7 +754,7 @@ text-align: center;
     font-family: "Roboto", Helvetica, Sans-Serif, sans-serif;
     line-height: 1.2em;
     color:#a2a1a1;
-    margin-right:7%%;
+    margin-right:15%;
     float:right;
     margin-top:20px;
     font-size: 16px;
@@ -2261,4 +2261,103 @@ img {
 
 .introtext{
     font-weight: bold;
+}
+.para_nav_bar_resume {
+    width:84%;
+    float:left;
+    display:inline-block;
+    margin-left:8%;
+}
+
+.intro_keys {
+    border-left: 6px solid #00ade4;
+    color: #00ade4;
+    padding-left: 15px;
+    font-weight: 300;
+}
+
+.para_keys {
+     width:100%;
+    float:left;
+    display:inline-block;
+    
+    margin-top: 40px;
+}
+
+.keys {
+    width:100%;
+    height:320px;
+		margin: 0px 0px 2.3% 0px;
+        float:left; 
+}
+
+.ibmdt {
+     width:60%;
+    height:250px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+}
+
+.ibmdashboard {
+     width:100%;
+    height:550px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;  
+}
+
+.para_ibm {
+    width:100%;
+    float:left;
+    display:inline-block;
+    
+    margin-top: 20px;
+}
+
+.journeys {
+    width:70%;
+    height:520px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+}
+
+.digital {
+    width:70%;
+    height:350px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+}
+
+.sessions {
+    width:70%;
+    height:400px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+}
+
+.ibmresearch {
+     width:100%;
+    height:400px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;  
+    
+}
+
+.full-image-about {
+    width:40%;
+		clear:both;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+        display:inline-block;
+        margin-top: 20px;
+}
+
+.ibmpersonas {
+     width:70%;
+    height:250px;
+		margin: 0px 0px 2.3% 0px;
+        float:left;
+}
+
+.personas {
+    margin-bottom: 100px;
 }
