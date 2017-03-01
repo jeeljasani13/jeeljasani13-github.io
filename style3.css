@@ -2216,7 +2216,7 @@ img {
 }
 
 .full-image-width.sup {
-     width:100%;
+     width:1000px;
     height:600px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
