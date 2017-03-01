@@ -2285,21 +2285,21 @@ img {
 }
 
 .keys {
-    width:100%;
+    width:750px;
     height:320px;
 		margin: 0px 0px 2.3% 0px;
         float:left; 
 }
 
 .ibmdt {
-     width:60%;
+     width:550px;
     height:250px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .ibmdashboard {
-     width:100%;
+     width:900px;
     height:550px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2314,28 +2314,28 @@ img {
 }
 
 .journeys {
-    width:70%;
+    width:700px;
     height:520px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .digital {
-    width:70%;
-    height:350px;
+    width:700px;
+    height:320px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .sessions {
-    width:70%;
-    height:400px;
+    width:700px;
+    height:450px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .ibmresearch {
-     width:100%;
+     width:900px;
     height:400px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2352,7 +2352,7 @@ img {
 }
 
 .ibmpersonas {
-     width:70%;
+     width:700px;
     height:250px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
