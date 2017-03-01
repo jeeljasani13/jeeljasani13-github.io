@@ -2042,7 +2042,7 @@ img {
 }
 
 .full-image-width.speeddate {
-   width:100%;
+   width:1000px;
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2168,7 +2168,7 @@ img {
 }
 
 .full-image-width.havresearch {
-    width:100%;
+    width:1000px;
     height:500px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2182,7 +2182,7 @@ img {
 }
 
 .full-image-width.tmap {
-    width:70%;
+    width:700px;
     height:600px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2190,7 +2190,7 @@ img {
 }
 
 .full-image-width.desproc {
-     width:70%;
+     width:800px;
     height:560px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2223,14 +2223,14 @@ img {
 }
 
 .full-image-width.pphaven {
-    width:100%;
+    width:920px;
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .full-image-width.havresearch1 {
-    width:100%;
+    width:1000px;
     height:460px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2238,7 +2238,7 @@ img {
 
 .full-image-width.paffinity1{
     
-     width:100%;
+     width:1000px;
     height:550px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
