@@ -1266,7 +1266,7 @@ margin-top: 2.5%;
 }
     
      .full-image-width.visions {
-    width:100%;
+    width:1000px;
     height:20px;
     margin: 0px 0px 2.3% 0px;
     margin-top:20px;
@@ -2007,7 +2007,7 @@ img {
 }
 
 .full-image-width.affinity {
-   width:100%;
+   width:1000px;
     height:700px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2020,7 +2020,7 @@ img {
         float:left;
 }
 .full-image-width.flow.bordering {
- width:100%;
+ width:1200px;
     height:770px;
     margin: 0px 0px 2.3% 0px;
     float:left;
