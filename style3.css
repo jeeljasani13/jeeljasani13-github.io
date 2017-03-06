@@ -1266,7 +1266,7 @@ margin-top: 2.5%;
 }
     
      .full-image-width.visions {
-    width:100%;
+    width:1000px;
     height:20px;
     margin: 0px 0px 2.3% 0px;
     margin-top:20px;
@@ -1904,7 +1904,7 @@ nav {
 
 .full-image-width.dashbd {
     
-     width:100%;
+     width:1000px;
     height:590px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -1914,7 +1914,7 @@ nav {
 
 .full-image-width.dashbd1 {
     
-     width:100%;
+     width:1000px;
     height:470px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2007,7 +2007,7 @@ img {
 }
 
 .full-image-width.affinity {
-   width:100%;
+   width:1000px;
     height:700px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2020,7 +2020,7 @@ img {
         float:left;
 }
 .full-image-width.flow.bordering {
- width:100%;
+ width:1200px;
     height:770px;
     margin: 0px 0px 2.3% 0px;
     float:left;
@@ -2042,7 +2042,11 @@ img {
 }
 
 .full-image-width.speeddate {
+<<<<<<< HEAD
    width:900px;
+=======
+   width:1000px;
+>>>>>>> origin/master
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2051,7 +2055,7 @@ img {
 
 .full-image-width.paffinity{
     
-     width:100%;
+     width:900px;
     height:570px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2168,7 +2172,7 @@ img {
 }
 
 .full-image-width.havresearch {
-    width:100%;
+    width:1000px;
     height:500px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2182,7 +2186,7 @@ img {
 }
 
 .full-image-width.tmap {
-    width:70%;
+    width:700px;
     height:600px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2190,7 +2194,7 @@ img {
 }
 
 .full-image-width.desproc {
-     width:70%;
+     width:800px;
     height:560px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2216,21 +2220,25 @@ img {
 }
 
 .full-image-width.sup {
-     width:100%;
+     width:1000px;
     height:600px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .full-image-width.pphaven {
+<<<<<<< HEAD
     width:900px;
+=======
+    width:920px;
+>>>>>>> origin/master
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .full-image-width.havresearch1 {
-    width:100%;
+    width:1000px;
     height:460px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2238,7 +2246,7 @@ img {
 
 .full-image-width.paffinity1{
     
-     width:100%;
+     width:1000px;
     height:550px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2285,21 +2293,21 @@ img {
 }
 
 .keys {
-    width:100%;
+    width:750px;
     height:320px;
 		margin: 0px 0px 2.3% 0px;
         float:left; 
 }
 
 .ibmdt {
-     width:60%;
+     width:550px;
     height:250px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .ibmdashboard {
-     width:100%;
+     width:900px;
     height:550px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2314,22 +2322,22 @@ img {
 }
 
 .journeys {
-    width:70%;
+    width:700px;
     height:520px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .digital {
-    width:70%;
-    height:350px;
+    width:700px;
+    height:320px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
 
 .sessions {
-    width:70%;
-    height:400px;
+    width:700px;
+    height:450px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
 }
@@ -2342,6 +2350,14 @@ img {
     
 }
 
+.res_left {
+	width:440px;
+}
+
+.res_right {
+	width:440px;
+}
+
 .full-image-about {
     width:40%;
 		clear:both;
@@ -2352,7 +2368,7 @@ img {
 }
 
 .ibmpersonas {
-     width:70%;
+     width:700px;
     height:250px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
