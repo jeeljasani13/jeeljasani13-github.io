@@ -399,7 +399,7 @@ nav ul li a.active{
 
 
 .left-img {
-	width:47%;
+	width:440px;
 	float:left;
    margin-right: 20px;
    
@@ -2042,7 +2042,7 @@ img {
 }
 
 .full-image-width.speeddate {
-   width:100%;
+   width:900px;
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2223,7 +2223,7 @@ img {
 }
 
 .full-image-width.pphaven {
-    width:100%;
+    width:900px;
     height:650px;
 		margin: 0px 0px 2.3% 0px;
         float:left;
@@ -2335,7 +2335,7 @@ img {
 }
 
 .ibmresearch {
-     width:100%;
+     width:900px;
     height:400px;
 		margin: 0px 0px 2.3% 0px;
         float:left;  
@@ -2360,4 +2360,37 @@ img {
 
 .personas {
     margin-bottom: 100px;
+}
+
+.teamibm {
+     width:900px;
+}
+
+.userenactment {
+     width:900px;
+}
+
+.teamhaven {
+     width:900px;
+}
+
+.supproto {
+     width:900px;
+}
+
+.supteam {
+     width:900px;
+}
+
+.messe900 {
+     width:900px;
+}
+
+.qit900 {
+     width:900px;
+    height:500px;
+}
+
+.dboard900 {
+     width:900px;
 }
